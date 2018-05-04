@@ -1,0 +1,12 @@
+body{
+    @font-face { font-family: 'Tesla';
+             src: url('C:\Users\spiku\Documents\zebrapharm\TESLA.tff') format('truetype'); }
+        
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
