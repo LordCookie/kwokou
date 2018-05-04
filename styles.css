@@ -1,12 +1,12 @@
 body{
-    @font-face { font-family: 'Tesla';
-             src: url('tesla/TESLA.tff') format('truetype'); }
+   @font-face { font-family: 'Tesla';
+             src: url('Fonts/TESLA.tff') format('truetype'); }
         
 }
 
 .icenter {
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 100%;
     width: 5%;
 }
