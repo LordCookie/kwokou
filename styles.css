@@ -11,10 +11,17 @@ body{
     width: 5%;
 }
 
+.left {
+    display: block;
+    margin-left: auto;
+    margin-right: 100%;
+    width: 5%;
+}
+
+
 .acenter {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 35%;
 }
-
