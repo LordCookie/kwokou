@@ -43,5 +43,7 @@ function activateCheats() {
   var audio = new Audio('Audio/N.E.R.D. - Spaz.mp3');
   audio.play();
 
-  alert("cheats activated");
+  alert("Hey Boss ^_^");
+    
+    
 }
