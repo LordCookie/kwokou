@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "Who are you ? 0.0"
+
+AuthUserFile /var/www/html/.htpasswd
+
+Require valid-user
